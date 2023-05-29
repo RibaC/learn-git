@@ -1,2 +1,5 @@
 # learn-git
 Repositório de aprendizado de GitHub
+
+#Lorem do branch main
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin pellentesque dolor, non molestie leo egestas eu. Nulla facilisi. Praesent gravida odio velit, id blandit ligula rutrum ac. Quisque in nibh est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce pulvinar ultrices nisl, in rhoncus felis maximus a. Sed gravida ante ut ante scelerisque feugiat. Sed congue mattis erat sit amet euismod. Duis tempus mollis velit, vel ullamcorper dui vulputate ut. Aenean leo neque, vestibulum id faucibus iaculis, suscipit et ante. Sed ultricies molestie mattis. Etiam eleifend pulvinar placerat. Duis fermentum orci ipsum, et vestibulum ante dictum vel. Aliquam quis vulputate nunc.
